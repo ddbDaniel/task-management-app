@@ -1,0 +1,13 @@
+.Sidebar{
+    display: block;
+    flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+  height: 100%;
+}
+
+.Tasks{
+    font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
+}
